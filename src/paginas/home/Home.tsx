@@ -19,7 +19,7 @@ function Home() {
                     </Box>
                 </Grid>
                 <Grid item xs={6} >
-                    <img src="https://i.imgur.com/H88yIo2.png" alt="" width="500px" height="500px" />
+                    <img src="https://media.discordapp.net/attachments/607999666839093248/1018162057721413632/kawaii.png?width=407&height=546" alt="pixel" width="500px" height="700px" />
                 </Grid>
                 <Grid xs={12} className='postagens'>
                 </Grid>
